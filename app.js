@@ -1,5 +1,6 @@
-// const DESTINATION = 'http://localhost:3000';
-const DESTINATION = 'http://aegis-server.herokuapp.com';
+const DESTINATION = 'http://localhost:3000';
+// const DESTINATION = 'http://aegis-server.herokuapp.com';
+
 const PORT = '/dev/tty.usbserial-FTGCJ3BU'; // 0~100 Counter
 // const PORT = '/dev/tty.usbserial-A400FSOF'; // Bluetooth?
 // const PORT = '/dev/tty.usbserial-AH017LXL'; // ?
