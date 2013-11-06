@@ -2,8 +2,9 @@ const DESTINATION = 'http://localhost:3000';
 // const DESTINATION = 'http://aegis-server.herokuapp.com';
 
 // const PORT = '/dev/tty.usbserial-FTGCJ3BU'; // 0~100 Counter
-const PORT1 = '/dev/tty.usbserial-FTGCJ3BU'; // left
-const PORT2 = '' // right;
+// const PORT1 = '/dev/tty.usbserial-FTGCJ3BU'; // left
+const PORT1 = '/dev/tty.usbserial-AE017IZI'; // left
+const PORT2 = '/dev/tty.usbserial-AH017LXL' // right;
 
 const VALUE_MIN = 0;
 const VALUE_MAX = 100;
